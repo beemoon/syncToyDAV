@@ -1,0 +1,6 @@
+starting from 2.1.1.0::
+
+Release 2.1.1.1:
+----------------------------------
+1. Subfolder bug fixed.
+2. If a folder disconnects and reconnects after sometime, TFS now starts monitoring it.

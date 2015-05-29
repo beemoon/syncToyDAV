@@ -1,0 +1,7 @@
+This log file created at 5-29-2015 14-10-15.	::(date format is mm-dd-yyyy)
+Please turn off word wrap for best viewing.
+-------------------------------------------
+C:\Users\brizardo\Desktop\Nouveau document texte.txt||Deleted||29/05/2015 14:12:34||brizardo
+C:\Users\brizardo\Desktop\Nouveau document texte.txt||Created||29/05/2015 14:13:02||brizardo
+C:\Users\brizardo\Desktop\Nouveau document texte.txt||Deleted||29/05/2015 14:13:16||brizardo
+C:\Users\brizardo\Desktop\Nouveau document texte (2).txt||Deleted||29/05/2015 14:13:23||brizardo

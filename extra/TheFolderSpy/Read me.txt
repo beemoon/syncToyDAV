@@ -1,0 +1,58 @@
+TheFolderSpy 2.1.1.1- the ultimate, yet free, hard disk monitor.
+
+This file tells you about the advanced and core features of TFS (TheFolderSpy), which makes it so powerful.
+
+New:
+send to multiple email addresses: just comma separate them [eg. abc@gmail.com, xyz@gmail.com ]
+
+Basic features of TFS 2.1.1.1::
+-ITS FREE.
+-Small size (60 KB download).
+-Simple to use.
+-Portable (No installation, carry in your thumb drive).
+-Monitor any number of folders in real-time.
+-Execute a file when a change is detected(plays wav files, executes other files).
+-Fully automated (Run and forget).
+-Monitor many types of changes: Creation,Deletion, Attributes changes, Access date, Filesize changes etc.
+-Auto start (optional).
+-Can write logs.
+-Monitor specific files in a folder.
+-INCOGNITO MODE.
+-Send EMAIL when a change is detected.
+-And many many more...
+
+
+
+Advanced Features [the raw power...]
+command line args for TFS::
+-----------------------------------------------------------------
+-i = incognito mode:: completely hidden:: just an icon is visible in tray, notifications disabled
+-w = syntax: <-w PATH> :: writes a log at the specified path
+-h = hidden mode:: icon visible at tray, notifications enabled
+-d = disable log writing. can be again enabled through menus
+-f = syntax: <-f FOLDER> :: adds the specified folder to the list.
+priority is: i>h and w>d
+-----------------------------------------------------------------
+
+
+
+In the body of the email (if you want emails to be sent when a change is detected)::
+[these can also be used as the command line parameters for the file to be executed when a change is detected.]
+-----------------------------------------------------------------
+*f = filename
+*t = detection type
+*d = directory
+*u = user name
+*n = date time
+*e = file that was set to execute whenever a change was detected
+*z = file name without path
+[*f is put by default]
+-----------------------------------------------------------------
+
+
+
+Some useful points abt TFS which will surely help you::
+-----------------------------------------------------------------
+1. While passing folder to TFS by cmdline, be sure to do that only one single time, as it gets saved in the list.
+2. The user-defined log is over-written everytime TFS is restarted.
+-----------------------------------------------------------------
